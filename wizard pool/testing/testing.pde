@@ -2,6 +2,11 @@ PImage img;
 
 Lines lines = new Lines();
 Stick stick = new Stick();
+Ball ball1 = new Ball(1300,600);
+Ball ball2 = new Ball(1100,850);
+Ball ball3 = new Ball(700,750);
+Ball ball4 = new Ball(350,400);
+public Ball[] blist = { ball1, ball2, ball3, ball4};
 
 // runs once at start
 void setup(){
@@ -23,6 +28,8 @@ void setup(){
 
   // draw rectangle (x,y,w,h)
   //rect(300,300,250,350);
+  ball1.setDirection(0.6,0.8);
+  ball1.setVel(7.0);
 }
 
 //runs every frame in a loop
@@ -35,6 +42,9 @@ void draw(){
   stick.draw(900, 650);
   fill(250,250,250);
   ellipse(900,650,44,44);
+  for(Ball ball : blist){
+    ball.draw();
+  }
 }
 
 void mouseClicked(){
