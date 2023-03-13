@@ -1,6 +1,5 @@
 To Do:
 -add friction to the table
--add pockets
 -add colition between stick and balls
 -add a stick power metric
 -impliment game rules; 
@@ -15,6 +14,7 @@ To Do:
 
 In Progress:      Name:
 -Ball collisions  Jake
+-add pockets  Josh
 
 
 Completed:
