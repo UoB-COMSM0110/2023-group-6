@@ -6,8 +6,7 @@ To Do:
   -assign ownership to player 1, 2 ...
   -track which balls have been pocketed, change score
   -end game after all balls have been pocketed / player
--landing page
--tutorial text boxes
+
 
 -wizards tings.........
 
@@ -16,6 +15,8 @@ In Progress:      Name:
 -Ball collisions  Jake
 -add pockets  Josh
 -add a stick power metric Ka Hong
+-landing page - waei
+-tutorial text boxes - waei
 
 Completed:
 -get table layout 
