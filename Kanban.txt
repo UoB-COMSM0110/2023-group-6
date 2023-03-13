@@ -1,0 +1,23 @@
+To Do:
+-add friction to the table
+-add pockets
+-add colition between stick and balls
+-add a stick power metric
+-impliment game rules; 
+  -assign ownership to player 1, 2 ...
+  -track which balls have been pocketed, change score
+  -end game after all balls have been pocketed / player
+-landing page
+-tutorial text boxes
+
+-wizards tings.........
+
+
+In Progress:      Name:
+-Ball collisions  Jake
+
+
+Completed:
+-get table layout 
+-wall collisions
+-stick tracks mouse
