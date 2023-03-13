@@ -15,7 +15,7 @@ To Do:
 In Progress:      Name:
 -Ball collisions  Jake
 -add pockets  Josh
-
+-add a stick power metric Ka Hong
 
 Completed:
 -get table layout 
